@@ -3,6 +3,7 @@ This guide walks you through printing "Hello, World" with java!
 
 **What you'll need:**
 * java
+* git
 
 **RUN:**
 ```
